@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 I am junior forntend developer
 <!---->
 ## Social:
-<a href="https://t.me/print_bruh">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png" alt="Telegram" width="35">
-</a>
-&nbsp;&nbsp;
 <a href="https://vk.com/id507105391">
   <img src="https://pngicon.ru/file/uploads/vk.png" width="35">
 </a>
 &nbsp;&nbsp;
+<a href="https://t.me/print_bruh">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png" alt="Telegram" width="35">
+</a>
+&nbsp;&nbsp;
 <a href="https://discordapp.com/users/653257360688676864">
-  <img src="https://clipartcraft.com/images/discord-logo-transparent-grey-3.png" width="35">
+  <img src="https://banner2.cleanpng.com/20180605/ouq/aa9z1gvg0.webp" width="35">
 </a>
 
