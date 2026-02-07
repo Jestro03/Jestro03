@@ -27,7 +27,7 @@ I am junior forntend developer
   <img src="https://pngicon.ru/file/uploads/vk.png" width="35">
 </a>
 &nbsp;&nbsp;
-<a href="discordapp.com/users/653257360688676864">
+<a href="https://discordapp.com/users/653257360688676864">
   <img src="[https://img.freepik.com/premium-vector/discord-modern-logo_578229-177.jpg](https://w7.pngwing.com/pngs/580/137/png-transparent-discord-logo.png)" width="35">
 </a>
 
