@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Nikita Angeniy! 
 
 <!--
 **Jestro03/Jestro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨‍💻 For me:
+I am junior forntend developer
+<!---->
+## Social:
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png)
+
+
