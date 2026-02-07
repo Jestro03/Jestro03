@@ -50,7 +50,6 @@ I am junior forntend developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_53a87c3c3971dd13161a4aaf3f91f306/goland.png" title="golang" alt="golang" width="40" height="40"/>&nbsp;
 </div>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
