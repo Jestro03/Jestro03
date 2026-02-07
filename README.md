@@ -28,6 +28,6 @@ I am junior forntend developer
 </a>
 &nbsp;&nbsp;
 <a href="https://discordapp.com/users/653257360688676864">
-  <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="40">
+  <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50">
 </a>
 
