@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 For me:
-I am junior forntend developer
+I am junior frontend developer
 
 ---
 
