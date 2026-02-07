@@ -23,7 +23,6 @@ I am junior forntend developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png" alt="Telegram" width="35">
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://vk.com/id507105391">
   <img src="https://pngicon.ru/file/uploads/vk.png" width="35">
