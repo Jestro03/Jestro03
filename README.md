@@ -20,7 +20,7 @@ I am junior forntend developer
 <!---->
 ## Social:
 <a href="https://t.me/print_bruh">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png" alt="Telegram" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/3840px-Telegram_2019_Logo.svg.png" alt="Telegram" width="50">
 </a>
 
 
