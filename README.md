@@ -25,6 +25,9 @@ I am junior frontend developer
 ### 💻 Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://pngicon.ru/file/uploads/html5.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://pngicon.ru/file/uploads/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://icon2.cleanpng.com/20180718/aoj/kisspng-vue-js-javascript-library-angularjs-developer-5b4f2afa2ace52.9405904515319150021753.jpg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/fluency/48/typescript--v2.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
