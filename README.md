@@ -28,7 +28,7 @@ I am junior frontend developer
   <img src="https://pngicon.ru/file/uploads/html5.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://pngicon.ru/file/uploads/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://e7.pngegg.com/pngimages/229/100/png-clipart-vue-js-full-logo-tech-companies-thumbnail.png" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/fluency/48/typescript--v2.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
