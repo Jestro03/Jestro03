@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am junior forntend developer
 <!---->
 ## Social:
-<p align="center">
+<p align="left">
   <a href="https://vk.com/id507105391">
     <img src="https://pngicon.ru/file/uploads/vk.png" width="35">
   </a>
